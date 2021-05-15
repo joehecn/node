@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "zx server",
+  "keywords": [
+    "zx",
+    "node",
+    "docker"
+  ],
+  "author": "joehe <leanbrown@live.cn>",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/dybaseapi": "^1.0.0",
+    "@alicloud/dysmsapi": "^1.0.0",
+    "@alicloud/mns": "^1.0.0-beta5",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "iconv-lite": "^0.4.15",
+    "jsonwebtoken": "^7.3.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.3",
+    "request": "^2.81.0",
+    "soap": "^0.19.2",
+    "socket.io": "^1.7.3",
+    "socketio-jwt": "^4.5.0",
+    "underscore": "^1.8.3",
+    "urllib": "^2.21.2",
+    "validator": "^7.0.0",
+    "wechat-crypto": "0.0.2",
+    "xml2json": "^0.11.0"
+  }
+}

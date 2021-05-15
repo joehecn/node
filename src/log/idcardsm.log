@@ -1,0 +1,620 @@
+---------------------------------
+[Mon Jul 24 2017 19:46:38 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440202197909206746\" }","op":{"cardNum":"440202197909206746","name":"黄春花","_id":"5975de1ece74d10073b00b22","__v":0}}
+obj:{"cardNum":"440202197909206746","name":"黄春花"}
+
+---------------------------------
+[Mon Jul 31 2017 10:50:28 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"330123197511134819\" }","op":{"cardNum":"330123197511134819","name":"陆渭新","_id":"597e9af400937a02ad6b085a","__v":0}}
+obj:{"cardNum":"330123197511134819","name":"陆渭新"}
+
+---------------------------------
+[Thu Aug 03 2017 10:54:03 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441323197109263038\" }","op":{"cardNum":"441323197109263038","name":"王庆胜","_id":"5982904b00937a02ad6b3521","__v":0}}
+obj:{"cardNum":"441323197109263038","name":"王庆胜"}
+
+---------------------------------
+[Fri Aug 04 2017 16:13:06 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440526195709290320\" }","op":{"cardNum":"440526195709290320","name":"陈静枝","_id":"59842c9200937a02ad6b4e31","__v":0}}
+obj:{"cardNum":"440526195709290320","name":"陈静枝"}
+
+---------------------------------
+[Tue Aug 15 2017 10:21:46 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"420111197905285659\" }","op":{"cardNum":"420111197905285659","name":"刘江东","_id":"59925aba9fa3e1000f148eb9","__v":0}}
+obj:{"cardNum":"420111197905285659","name":"刘江东"}
+
+---------------------------------
+[Tue Aug 22 2017 18:08:02 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440681200208195943\" }","op":{"cardNum":"440681200208195943","name":"张依琳","_id":"599c02825026d20029839bca","__v":0}}
+obj:{"cardNum":"440681200208195943","name":"张依琳"}
+
+---------------------------------
+[Wed Aug 23 2017 17:46:41 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"445122198208151278\" }","op":{"cardNum":"445122198208151278","name":"张友炳","_id":"599d4f01cbacb10033073516","__v":0}}
+obj:{"cardNum":"445122198208151278","name":"张友炳"}
+
+---------------------------------
+[Wed Aug 23 2017 17:46:42 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441900197411220029\" }","op":{"cardNum":"441900197411220029","name":"王凤章","_id":"599d4f02cbacb1003307351c","__v":0}}
+obj:{"cardNum":"441900197411220029","name":"王凤章"}
+
+---------------------------------
+[Fri Aug 25 2017 21:51:48 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"310110195701263297\" }","op":{"cardNum":"310110195701263297","name":"袁剑敏","_id":"59a02b74cbacb100330747ef","__v":0}}
+obj:{"cardNum":"310110195701263297","name":"袁剑敏"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:19 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"412725196808064631\" }","op":{"cardNum":"412725196808064631","name":"李锐","_id":"59c8ab63ede4b7002303ed8d","__v":0}}
+obj:{"cardNum":"412725196808064631","name":"李锐"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:20 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"620422199105108111\" }","op":{"cardNum":"620422199105108111","name":"邵启军","_id":"59c8ab64ede4b7002303ed94","__v":0}}
+obj:{"cardNum":"620422199105108111","name":"邵启军"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:20 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"412927197105286391\" }","op":{"cardNum":"412927197105286391","name":"张道新","_id":"59c8ab64ede4b7002303ed96","__v":0}}
+obj:{"cardNum":"412927197105286391","name":"张道新"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:20 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"342501197906102018\" }","op":{"cardNum":"342501197906102018","name":"黄宏伟","_id":"59c8ab64ede4b7002303eda5","__v":0}}
+obj:{"cardNum":"342501197906102018","name":"黄宏伟"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:22 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"130928198102063717\" }","op":{"cardNum":"130928198102063717","name":"蔡玉刚","_id":"59c8ab66ede4b7002303edbd","__v":0}}
+obj:{"cardNum":"130928198102063717","name":"蔡玉刚"}
+
+---------------------------------
+[Mon Sep 25 2017 15:08:23 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"342101198206293418\" }","op":{"cardNum":"342101198206293418","name":"黄现刚","_id":"59c8ab67ede4b7002303edc8","__v":0}}
+obj:{"cardNum":"342101198206293418","name":"黄现刚"}
+
+---------------------------------
+[Sat Sep 30 2017 19:16:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"15010219690429205X\" }","op":{"cardNum":"15010219690429205X","name":"杨百岗","_id":"59cf7cfb99f9fc0041fdd4d0","__v":0}}
+obj:{"cardNum":"15010219690429205X","name":"杨百岗"}
+
+---------------------------------
+[Sat Sep 30 2017 19:16:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"150102196805312027\" }","op":{"cardNum":"150102196805312027","name":"郑耘","_id":"59cf7cfb99f9fc0041fdd4d2","__v":0}}
+obj:{"cardNum":"150102196805312027","name":"郑耘"}
+
+---------------------------------
+[Sat Sep 30 2017 19:16:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"41010319630912246X\" }","op":{"cardNum":"41010319630912246X","name":"薛红","_id":"59cf7cfb99f9fc0041fdd4db","__v":0}}
+obj:{"cardNum":"41010319630912246X","name":"薛红"}
+
+---------------------------------
+[Mon Oct 09 2017 14:44:51 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"445221197309061284\" }","op":{"cardNum":"445221197309061284","name":"洪叶辉","_id":"59db1ae340757f000f3486eb","__v":0}}
+obj:{"cardNum":"445221197309061284","name":"洪叶辉"}
+
+---------------------------------
+[Thu Oct 12 2017 16:21:00 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430421198906158366\" }","op":{"cardNum":"430421198906158366","name":"王丹","_id":"59df25ec883c4c0019dc1c82","__v":0}}
+obj:{"cardNum":"430421198906158366","name":"王丹"}
+
+---------------------------------
+[Thu Oct 12 2017 16:21:01 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430725199408114324\" }","op":{"cardNum":"430725199408114324","name":"黄婉婷","_id":"59df25ed883c4c0019dc1c8a","__v":0}}
+obj:{"cardNum":"430725199408114324","name":"黄婉婷"}
+
+---------------------------------
+[Thu Oct 12 2017 16:21:02 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"230231198801012031\" }","op":{"cardNum":"230231198801012031","name":"张祥芝","_id":"59df25ee883c4c0019dc1ca0","__v":0}}
+obj:{"cardNum":"230231198801012031","name":"张祥芝"}
+
+---------------------------------
+[Mon Nov 06 2017 15:50:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441827198312296019\" }","op":{"cardNum":"441827198312296019","name":"陈焯锋","_id":"5a00145d2f2f6f00232b2b24","__v":0}}
+obj:{"cardNum":"441827198312296019","name":"陈焯锋"}
+
+---------------------------------
+[Thu Nov 09 2017 15:20:10 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440306197412050062\" }","op":{"cardNum":"440306197412050062","name":"麦敬兴","_id":"5a0401aa2f2f6f00232b4960","__v":0}}
+obj:{"cardNum":"440306197412050062","name":"麦敬兴"}
+
+---------------------------------
+[Wed Nov 15 2017 17:44:33 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441423198204073814\" }","op":{"cardNum":"441423198204073814","name":"王优意","_id":"5a0c0c81ad9a80002da4732b","__v":0}}
+obj:{"cardNum":"441423198204073814","name":"王优意"}
+
+---------------------------------
+[Sat Nov 25 2017 14:18:27 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"412826197607204921\" }","op":{"cardNum":"412826197607204921","name":"田红丽","_id":"5a190b3391e341007dd9d05e","__v":0}}
+obj:{"cardNum":"412826197607204921","name":"田红丽"}
+
+---------------------------------
+[Sat Nov 25 2017 14:18:27 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"45262619780411004X\" }","op":{"cardNum":"45262619780411004X","name":"田红霞","_id":"5a190b3391e341007dd9d061","__v":0}}
+obj:{"cardNum":"45262619780411004X","name":"田红霞"}
+
+---------------------------------
+[Fri Dec 15 2017 15:10:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440301197004203857\" }","op":{"cardNum":"440301197004203857","name":"缪启章","_id":"5a33757df5dcbb0055b1b5af","__v":0}}
+obj:{"cardNum":"440301197004203857","name":"缪启章"}
+
+---------------------------------
+[Wed Dec 20 2017 18:33:25 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"522422199104152012\" }","op":{"cardNum":"522422199104152012","name":"李玲","_id":"5a3a3c75f5dcbb0055b1d5ea","__v":0}}
+obj:{"cardNum":"522422199104152012","name":"李玲"}
+
+---------------------------------
+[Thu Feb 01 2018 11:21:03 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"320323199512172014\" }","op":{"cardNum":"320323199512172014","name":"韩润琛","_id":"5a72879fcdabf900f5597493","__v":0}}
+obj:{"cardNum":"320323199512172014","name":"韩润琛"}
+
+---------------------------------
+[Tue Feb 13 2018 11:45:54 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"33012119680120892X\" }","op":{"cardNum":"33012119680120892X","name":"章珠凤","_id":"5a825f724957fc020d1bb4ff","__v":0}}
+obj:{"cardNum":"33012119680120892X","name":"章珠凤"}
+
+---------------------------------
+[Sun Mar 04 2018 12:12:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441427198407061923\" }","op":{"cardNum":"441427198407061923","name":"王瑜娴","_id":"5a9b7245dc88f0022133bc01","__v":0}}
+obj:{"cardNum":"441427198407061923","name":"王瑜娴"}
+
+---------------------------------
+[Fri Mar 23 2018 16:42:56 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441721198112050117\" }","op":{"cardNum":"441721198112050117","name":"张支子","_id":"5ab4be102ac15d02354f5b88","__v":0}}
+obj:{"cardNum":"441721198112050117","name":"张支子"}
+
+---------------------------------
+[Fri Mar 23 2018 16:42:57 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440902197410285228\" }","op":{"cardNum":"440902197410285228","name":"韩江华","_id":"5ab4be112ac15d02354f5b95","__v":0}}
+obj:{"cardNum":"440902197410285228","name":"韩江华"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:02 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441323198401016311\" }","op":{"cardNum":"441323198401016311","name":"梁剑文","_id":"5ab4be162ac15d02354f5bc7","__v":0}}
+obj:{"cardNum":"441323198401016311","name":"梁剑文"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:02 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441623197507260023\" }","op":{"cardNum":"441623197507260023","name":"麦惠玲","_id":"5ab4be162ac15d02354f5bce","__v":0}}
+obj:{"cardNum":"441623197507260023","name":"麦惠玲"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:02 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"36212819800620332X\" }","op":{"cardNum":"36212819800620332X","name":"赖金玉","_id":"5ab4be162ac15d02354f5bd3","__v":0}}
+obj:{"cardNum":"36212819800620332X","name":"赖金玉"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:03 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"220124197703215614\" }","op":{"cardNum":"220124197703215614","name":"尹维前","_id":"5ab4be172ac15d02354f5be3","__v":0}}
+obj:{"cardNum":"220124197703215614","name":"尹维前"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:04 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"350221195105021525\" }","op":{"cardNum":"350221195105021525","name":"李爱兰","_id":"5ab4be182ac15d02354f5be9","__v":0}}
+obj:{"cardNum":"350221195105021525","name":"李爱兰"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:04 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441722197705226618\" }","op":{"cardNum":"441722197705226618","name":"刘星位","_id":"5ab4be182ac15d02354f5bed","__v":0}}
+obj:{"cardNum":"441722197705226618","name":"刘星位"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:04 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"350206200610065510\" }","op":{"cardNum":"350206200610065510","name":"陈开勋","_id":"5ab4be182ac15d02354f5bf1","__v":0}}
+obj:{"cardNum":"350206200610065510","name":"陈开勋"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:05 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430725200707030097\" }","op":{"cardNum":"430725200707030097","name":"周嘉晨","_id":"5ab4be192ac15d02354f5bf8","__v":0}}
+obj:{"cardNum":"430725200707030097","name":"周嘉晨"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:05 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"452421197910081833\" }","op":{"cardNum":"452421197910081833","name":"李少锋","_id":"5ab4be192ac15d02354f5bfe","__v":0}}
+obj:{"cardNum":"452421197910081833","name":"李少锋"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:05 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"420106195511080423\" }","op":{"cardNum":"420106195511080423","name":"钟铭珍","_id":"5ab4be192ac15d02354f5c06","__v":0}}
+obj:{"cardNum":"420106195511080423","name":"钟铭珍"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:06 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440307201508071816\" }","op":{"cardNum":"440307201508071816","name":"刘毅勋","_id":"5ab4be1a2ac15d02354f5c0a","__v":0}}
+obj:{"cardNum":"440307201508071816","name":"刘毅勋"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:06 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441230197706037213\" }","op":{"cardNum":"441230197706037213","name":"黄国栋","_id":"5ab4be1a2ac15d02354f5c10","__v":0}}
+obj:{"cardNum":"441230197706037213","name":"黄国栋"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:06 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440825197406114433\" }","op":{"cardNum":"440825197406114433","name":"林汉武","_id":"5ab4be1a2ac15d02354f5c14","__v":0}}
+obj:{"cardNum":"440825197406114433","name":"林汉武"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:06 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440304201410270041\" }","op":{"cardNum":"440304201410270041","name":"朱思馨","_id":"5ab4be1a2ac15d02354f5c16","__v":0}}
+obj:{"cardNum":"440304201410270041","name":"朱思馨"}
+
+---------------------------------
+[Fri Mar 23 2018 16:43:07 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"362429197308114320\" }","op":{"cardNum":"362429197308114320","name":"朱建平","_id":"5ab4be1b2ac15d02354f5c1a","__v":0}}
+obj:{"cardNum":"362429197308114320","name":"朱建平"}
+
+---------------------------------
+[Mon Apr 02 2018 16:21:41 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430403197402052018\" }","op":{"cardNum":"430403197402052018","name":"康志斌","_id":"5ac1e815f6dbf2024931bbf9","__v":0}}
+obj:{"cardNum":"430403197402052018","name":"康志斌"}
+
+---------------------------------
+[Thu Apr 19 2018 19:38:08 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"442526196711170025\" }","op":{"cardNum":"442526196711170025","name":"杨凤梅","_id":"5ad87fa0f6dbf20249325cf9","__v":0}}
+obj:{"cardNum":"442526196711170025","name":"杨凤梅"}
+
+---------------------------------
+[Thu Apr 19 2018 19:38:08 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"442526196711170025\" }","op":{"cardNum":"442526196711170025","name":"杨凤梅","_id":"5ad87fa0f6dbf20249325cfb","__v":0}}
+obj:{"cardNum":"442526196711170025","name":"杨凤梅"}
+
+---------------------------------
+[Thu Apr 19 2018 19:38:08 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"442526196711170025\" }","op":{"cardNum":"442526196711170025","name":"杨凤梅","_id":"5ad87fa0f6dbf20249325cfd","__v":0}}
+obj:{"cardNum":"442526196711170025","name":"杨凤梅"}
+
+---------------------------------
+[Thu Apr 19 2018 19:38:08 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"442526196711170025\" }","op":{"cardNum":"442526196711170025","name":"杨凤梅","_id":"5ad87fa0f6dbf20249325cff","__v":0}}
+obj:{"cardNum":"442526196711170025","name":"杨凤梅"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:46 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110108201109163456\" }","op":{"cardNum":"110108201109163456","name":"董培原","_id":"5ad953a6f6dbf20249325fe4","__v":0}}
+obj:{"cardNum":"110108201109163456","name":"董培原"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:47 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"132624197609094024\" }","op":{"cardNum":"132624197609094024","name":"刘丽芬","_id":"5ad953a7f6dbf20249325ff0","__v":0}}
+obj:{"cardNum":"132624197609094024","name":"刘丽芬"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:47 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"130802197605190618\" }","op":{"cardNum":"130802197605190618","name":"宋相东","_id":"5ad953a7f6dbf20249325ff2","__v":0}}
+obj:{"cardNum":"130802197605190618","name":"宋相东"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:47 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"132624195305094042\" }","op":{"cardNum":"132624195305094042","name":"兰树香","_id":"5ad953a7f6dbf20249325ff7","__v":0}}
+obj:{"cardNum":"132624195305094042","name":"兰树香"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:50 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110108201408203614\" }","op":{"cardNum":"110108201408203614","name":"程宥泽","_id":"5ad953aaf6dbf20249326016","__v":0}}
+obj:{"cardNum":"110108201408203614","name":"程宥泽"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:50 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110101201409074514\" }","op":{"cardNum":"110101201409074514","name":"罗今辰","_id":"5ad953aaf6dbf2024932601a","__v":0}}
+obj:{"cardNum":"110101201409074514","name":"罗今辰"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:50 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"340827197912224319\" }","op":{"cardNum":"340827197912224319","name":"罗帮永","_id":"5ad953aaf6dbf20249326028","__v":0}}
+obj:{"cardNum":"340827197912224319","name":"罗帮永"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:51 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"372831195806270517\" }","op":{"cardNum":"372831195806270517","name":"潘立奎","_id":"5ad953abf6dbf2024932602a","__v":0}}
+obj:{"cardNum":"372831195806270517","name":"潘立奎"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:52 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"210802201208271026\" }","op":{"cardNum":"210802201208271026","name":"金今","_id":"5ad953acf6dbf2024932603a","__v":0}}
+obj:{"cardNum":"210802201208271026","name":"金今"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:52 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"210802198011261049\" }","op":{"cardNum":"210802198011261049","name":"郭晓黎","_id":"5ad953acf6dbf20249326043","__v":0}}
+obj:{"cardNum":"210802198011261049","name":"郭晓黎"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:52 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110107195804252114\" }","op":{"cardNum":"110107195804252114","name":"刘春章","_id":"5ad953acf6dbf20249326049","__v":0}}
+obj:{"cardNum":"110107195804252114","name":"刘春章"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:52 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110108196306112726\" }","op":{"cardNum":"110108196306112726","name":"伊志华","_id":"5ad953acf6dbf2024932604b","__v":0}}
+obj:{"cardNum":"110108196306112726","name":"伊志华"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:52 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110108195606188410\" }","op":{"cardNum":"110108195606188410","name":"李启军","_id":"5ad953acf6dbf2024932604d","__v":0}}
+obj:{"cardNum":"110108195606188410","name":"李启军"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"210302197904012419\" }","op":{"cardNum":"210302197904012419","name":"金克胜","_id":"5ad953adf6dbf20249326051","__v":0}}
+obj:{"cardNum":"210302197904012419","name":"金克胜"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"11010219601008158x\" }","op":{"cardNum":"11010219601008158x","name":"徐玥","_id":"5ad953adf6dbf20249326053","__v":0}}
+obj:{"cardNum":"11010219601008158x","name":"徐玥"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"110108193711252788\" }","op":{"cardNum":"110108193711252788","name":"白玉兰","_id":"5ad953adf6dbf20249326057","__v":0}}
+obj:{"cardNum":"110108193711252788","name":"白玉兰"}
+
+---------------------------------
+[Fri Apr 20 2018 10:42:53 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"620202197310030020\" }","op":{"cardNum":"620202197310030020","name":"李晗","_id":"5ad953adf6dbf20249326067","__v":0}}
+obj:{"cardNum":"620202197310030020","name":"李晗"}
+
+---------------------------------
+[Thu Jul 05 2018 19:06:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430482198308260021\" }","op":{"cardNum":"430482198308260021","name":"肖艳","_id":"5b3dfba3e3cad4000fb6e519","__v":0}}
+obj:{"cardNum":"430482198308260021","name":"肖艳"}
+
+---------------------------------
+[Thu Jul 05 2018 19:06:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430482198308260021\" }","op":{"cardNum":"430482198308260021","name":"肖艳","_id":"5b3dfba3e3cad4000fb6e51b","__v":0}}
+obj:{"cardNum":"430482198308260021","name":"肖艳"}
+
+---------------------------------
+[Wed Jul 18 2018 17:53:58 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"432802196909141389\" }","op":{"cardNum":"432802196909141389","name":"陈小英","_id":"5b4f0e36e3cad4000fb788e0","__v":0}}
+obj:{"cardNum":"432802196909141389","name":"陈小英"}
+
+---------------------------------
+[Wed Jul 18 2018 17:53:58 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441424199409030368\" }","op":{"cardNum":"441424199409030368","name":"曾维鑫","_id":"5b4f0e36e3cad4000fb788e2","__v":0}}
+obj:{"cardNum":"441424199409030368","name":"曾维鑫"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:31 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322197704120019\" }","op":{"cardNum":"441322197704120019","name":"宏峰","_id":"5b555da7a9c140002d866032","__v":0}}
+obj:{"cardNum":"441322197704120019","name":"宏峰"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:31 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"44132219730913551X\" }","op":{"cardNum":"44132219730913551X","name":"陈永辉","_id":"5b555da7a9c140002d866034","__v":0}}
+obj:{"cardNum":"44132219730913551X","name":"陈永辉"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:31 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322197201042346\" }","op":{"cardNum":"441322197201042346","name":"曾淑娟","_id":"5b555da7a9c140002d86603a","__v":0}}
+obj:{"cardNum":"441322197201042346","name":"曾淑娟"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:31 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322199809265520\" }","op":{"cardNum":"441322199809265520","name":"陈敏仪","_id":"5b555da7a9c140002d86603c","__v":0}}
+obj:{"cardNum":"441322199809265520","name":"陈敏仪"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:31 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440106197811024012\" }","op":{"cardNum":"440106197811024012","name":"曾健明","_id":"5b555da7a9c140002d866040","__v":0}}
+obj:{"cardNum":"440106197811024012","name":"曾健明"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322200411032351\" }","op":{"cardNum":"441322200411032351","name":"曾宇培","_id":"5b555da8a9c140002d866046","__v":0}}
+obj:{"cardNum":"441322200411032351","name":"曾宇培"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322197902072345\" }","op":{"cardNum":"441322197902072345","name":"叶秀兰","_id":"5b555da8a9c140002d866048","__v":0}}
+obj:{"cardNum":"441322197902072345","name":"叶秀兰"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"44252619480317231x\" }","op":{"cardNum":"44252619480317231x","name":"曾镜珠","_id":"5b555da8a9c140002d86604c","__v":0}}
+obj:{"cardNum":"44252619480317231x","name":"曾镜珠"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"442526195112022325\" }","op":{"cardNum":"442526195112022325","name":"黄新兰","_id":"5b555da8a9c140002d866050","__v":0}}
+obj:{"cardNum":"442526195112022325","name":"黄新兰"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322200804150420\" }","op":{"cardNum":"441322200804150420","name":"宏钰颖","_id":"5b555da8a9c140002d866054","__v":0}}
+obj:{"cardNum":"441322200804150420","name":"宏钰颖"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"44130220090516691X\" }","op":{"cardNum":"44130220090516691X","name":"宏赫","_id":"5b555da8a9c140002d866058","__v":0}}
+obj:{"cardNum":"44130220090516691X","name":"宏赫"}
+
+---------------------------------
+[Mon Jul 23 2018 12:46:33 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441322198011242384\" }","op":{"cardNum":"441322198011242384","name":"曾淑媛","_id":"5b555da9a9c140002d86605c","__v":0}}
+obj:{"cardNum":"441322198011242384","name":"曾淑媛"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:10 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341002198611140423\" }","op":{"cardNum":"341002198611140423","name":"程夏","_id":"5b557d36a9c140002d866374","__v":0}}
+obj:{"cardNum":"341002198611140423","name":"程夏"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199009141486\" }","op":{"cardNum":"341021199009141486","name":"吴莹","_id":"5b557d37a9c140002d866378","__v":0}}
+obj:{"cardNum":"341021199009141486","name":"吴莹"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021198607130010\" }","op":{"cardNum":"341021198607130010","name":"程初","_id":"5b557d37a9c140002d86637c","__v":0}}
+obj:{"cardNum":"341021198607130010","name":"程初"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199510170029\" }","op":{"cardNum":"341021199510170029","name":"洪丽莎","_id":"5b557d37a9c140002d866380","__v":0}}
+obj:{"cardNum":"341021199510170029","name":"洪丽莎"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"34272319720929130X\" }","op":{"cardNum":"34272319720929130X","name":"庄凤美","_id":"5b557d37a9c140002d866386","__v":0}}
+obj:{"cardNum":"34272319720929130X","name":"庄凤美"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199603250546\" }","op":{"cardNum":"341021199603250546","name":"张捷","_id":"5b557d37a9c140002d86638c","__v":0}}
+obj:{"cardNum":"341021199603250546","name":"张捷"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199708249787\" }","op":{"cardNum":"341021199708249787","name":"潘海博","_id":"5b557d37a9c140002d86638f","__v":0}}
+obj:{"cardNum":"341021199708249787","name":"潘海博"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:12 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199411174227\" }","op":{"cardNum":"341021199411174227","name":"吴娇","_id":"5b557d38a9c140002d866398","__v":0}}
+obj:{"cardNum":"341021199411174227","name":"吴娇"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:12 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"342723197101020073\" }","op":{"cardNum":"342723197101020073","name":"王卫兵","_id":"5b557d38a9c140002d86639d","__v":0}}
+obj:{"cardNum":"342723197101020073","name":"王卫兵"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:13 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"34080319780118232X\" }","op":{"cardNum":"34080319780118232X","name":"何志霞","_id":"5b557d39a9c140002d8663a7","__v":0}}
+obj:{"cardNum":"34080319780118232X","name":"何志霞"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:13 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021199308015965\" }","op":{"cardNum":"341021199308015965","name":"张艳君","_id":"5b557d39a9c140002d8663ab","__v":0}}
+obj:{"cardNum":"341021199308015965","name":"张艳君"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:14 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"432325197911270042\" }","op":{"cardNum":"432325197911270042","name":"曾笑青","_id":"5b557d3aa9c140002d8663bb","__v":0}}
+obj:{"cardNum":"432325197911270042","name":"曾笑青"}
+
+---------------------------------
+[Mon Jul 23 2018 15:01:15 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"341021200901074363\" }","op":{"cardNum":"341021200901074363","name":"洪紫萱","_id":"5b557d3ba9c140002d8663bf","__v":0}}
+obj:{"cardNum":"341021200901074363","name":"洪紫萱"}
+
+---------------------------------
+[Wed Aug 15 2018 11:06:15 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"342401198107091315\" }","op":{"cardNum":"342401198107091315","name":"胡君杰","_id":"5b7398a71677ab018159a113","__v":0}}
+obj:{"cardNum":"342401198107091315","name":"胡君杰"}
+
+---------------------------------
+[Tue Aug 21 2018 15:12:58 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"450327198704281215\" }","op":{"cardNum":"450327198704281215","name":"翟远志","_id":"5b7bbb7aaf0eec01a9ae6354","__v":0}}
+obj:{"cardNum":"450327198704281215","name":"翟远志"}
+
+---------------------------------
+[Fri Aug 24 2018 16:48:16 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"432302196506240940\" }","op":{"cardNum":"432302196506240940","name":"杨运华","_id":"5b7fc650af0eec01a9ae870f","__v":0}}
+obj:{"cardNum":"432302196506240940","name":"杨运华"}
+
+---------------------------------
+[Thu Aug 30 2018 16:09:44 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440508198905031423\" }","op":{"cardNum":"440508198905031423","name":"黄捷婷","_id":"5b87a648af0eec01a9aebb7a","__v":0}}
+obj:{"cardNum":"440508198905031423","name":"黄捷婷"}
+
+---------------------------------
+[Wed Sep 12 2018 15:43:12 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"610303196004021228\" }","op":{"cardNum":"610303196004021228","name":"吴登敏","_id":"5b98c39069c10201b34c8646","__v":0}}
+obj:{"cardNum":"610303196004021228","name":"吴登敏"}
+
+---------------------------------
+[Wed Sep 12 2018 15:43:12 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"610303196206130414\" }","op":{"cardNum":"610303196206130414","name":"李平","_id":"5b98c39069c10201b34c864a","__v":0}}
+obj:{"cardNum":"610303196206130414","name":"李平"}
+
+---------------------------------
+[Wed Oct 03 2018 10:44:50 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"330123195007082926\" }","op":{"cardNum":"330123195007082926","name":"何香云","_id":"5bb42d22c16470000f853882","__v":0}}
+obj:{"cardNum":"330123195007082926","name":"何香云"}
+
+---------------------------------
+[Wed Oct 03 2018 23:15:48 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430421198310101772\" }","op":{"cardNum":"430421198310101772","name":"蔡宁波","_id":"5bb4dd24c16470000f853bc0","__v":0}}
+obj:{"cardNum":"430421198310101772","name":"蔡宁波"}
+
+---------------------------------
+[Wed Feb 27 2019 13:47:29 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"330521196010245021\" }","op":{"cardNum":"330521196010245021","name":"曹孝英","_id":"5c7624710bbfdc000faefbdd","__v":0}}
+obj:{"cardNum":"330521196010245021","name":"曹孝英"}
+
+---------------------------------
+[Fri May 10 2019 23:16:55 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"342531198702151718\" }","op":{"cardNum":"342531198702151718","name":"汪弦","_id":"5cd595e764bed5009b84129d","__v":0}}
+obj:{"cardNum":"342531198702151718","name":"汪弦"}
+
+---------------------------------
+[Fri May 10 2019 23:16:56 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440304201609081854\" }","op":{"cardNum":"440304201609081854","name":"盛梓淳","_id":"5cd595e864bed5009b8412ac","__v":0}}
+obj:{"cardNum":"440304201609081854","name":"盛梓淳"}
+
+---------------------------------
+[Fri May 10 2019 23:16:56 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"33022519820917103X\" }","op":{"cardNum":"33022519820917103X","name":"伊英武","_id":"5cd595e864bed5009b8412b3","__v":0}}
+obj:{"cardNum":"33022519820917103X","name":"伊英武"}
+
+---------------------------------
+[Fri May 10 2019 23:16:56 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"420106197508263252\" }","op":{"cardNum":"420106197508263252","name":"陈浩","_id":"5cd595e864bed5009b8412b7","__v":0}}
+obj:{"cardNum":"420106197508263252","name":"陈浩"}
+
+---------------------------------
+[Fri May 10 2019 23:16:57 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"44030420120311672X\" }","op":{"cardNum":"44030420120311672X","name":"高紫宸","_id":"5cd595e964bed5009b8412c2","__v":0}}
+obj:{"cardNum":"44030420120311672X","name":"高紫宸"}
+
+---------------------------------
+[Mon Jun 17 2019 18:06:32 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"450521198901090322\" }","op":{"cardNum":"450521198901090322","name":"庞雪娇","_id":"5d0766284520d901a97b2e23","__v":0}}
+obj:{"cardNum":"450521198901090322","name":"庞雪娇"}
+
+---------------------------------
+[Mon Jun 17 2019 18:06:33 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"362421199006125620\" }","op":{"cardNum":"362421199006125620","name":"王美华","_id":"5d0766294520d901a97b2e3a","__v":0}}
+obj:{"cardNum":"362421199006125620","name":"王美华"}
+
+---------------------------------
+[Wed Jun 26 2019 16:32:18 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"330125197401143426\" }","op":{"cardNum":"330125197401143426","name":"张秀萍","_id":"5d132d924520d901a97ba0cc","__v":0}}
+obj:{"cardNum":"330125197401143426","name":"张秀萍"}
+
+---------------------------------
+[Mon Sep 30 2019 15:56:27 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441581198308134406\" }","op":{"cardNum":"441581198308134406","name":"黄月娥","_id":"5d91b52b8ecdc100199b42eb","__v":0}}
+obj:{"cardNum":"441581198308134406","name":"黄月娥"}
+
+---------------------------------
+[Wed Nov 13 2019 15:18:16 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"330105193710011319\" }","op":{"cardNum":"330105193710011319","name":"汤坚华","_id":"5dcbae388ecdc100199ccd65","__v":0}}
+obj:{"cardNum":"330105193710011319","name":"汤坚华"}
+
+---------------------------------
+[Tue Dec 03 2019 18:27:24 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"372330198702030076\" }","op":{"cardNum":"372330198702030076","name":"公建伟","_id":"5de6388c8ecdc100199d4677","__v":0}}
+obj:{"cardNum":"372330198702030076","name":"公建伟"}
+
+---------------------------------
+[Tue Dec 03 2019 18:27:24 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"430903198605255116\" }","op":{"cardNum":"430903198605255116","name":"贾志虎","_id":"5de6388c8ecdc100199d467b","__v":0}}
+obj:{"cardNum":"430903198605255116","name":"贾志虎"}
+
+---------------------------------
+[Tue Dec 03 2019 18:27:24 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440621197401160020\" }","op":{"cardNum":"440621197401160020","name":"杨海英","_id":"5de6388c8ecdc100199d467f","__v":0}}
+obj:{"cardNum":"440621197401160020","name":"杨海英"}
+
+---------------------------------
+[Thu May 13 2021 17:04:11 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"441621197101125312\" }","op":{"cardNum":"441621197101125312","name":"钟件茂","_id":"609ceb8b8e3019001ac80d70","__v":0}}
+obj:{"cardNum":"441621197101125312","name":"钟件茂"}
+
+---------------------------------
+[Thu May 13 2021 17:05:39 GMT+0800 (CST)] write db error 16999:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: auth.idcards index: cardNum_1 dup key: { : \"440301195701252129\" }","op":{"cardNum":"440301195701252129","name":"王葵多","_id":"609cebe38e3019001ac80daf","__v":0}}
+obj:{"cardNum":"440301195701252129","name":"王葵多"}
+

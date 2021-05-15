@@ -1,0 +1,1845 @@
+---------------------------------
+[Tue Jul 18 2017 19:51:33 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jul 18 2017 19:51:34 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jul 18 2017 19:51:35 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Jul 28 2017 14:32:33 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{}
+
+---------------------------------
+[Fri Jul 28 2017 23:39:20 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"57739ca220b5a069009c0814","userName":"xbjq05","password":"123456","name":"黄冬强","companyAbbr":"西北假期","phone":13602699706,"role":10}
+
+---------------------------------
+[Sat Jul 29 2017 11:55:14 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Jul 29 2017 11:55:15 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Jul 29 2017 11:55:16 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 03 2017 10:02:34 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Aug 05 2017 16:46:54 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Aug 05 2017 16:47:02 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Aug 05 2017 16:47:03 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Aug 05 2017 16:47:03 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Aug 05 2017 16:47:03 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Aug 05 2017 16:47:07 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Aug 06 2017 07:40:44 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Aug 06 2017 07:40:47 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Aug 06 2017 11:34:26 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Aug 07 2017 16:52:24 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Aug 07 2017 16:52:26 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Aug 07 2017 16:52:49 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:42 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:44 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:44 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:45 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:45 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:45 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 12:56:45 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 08 2017 14:51:22 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce52","userName":"anguo06","password":"22274556","name":"廖裕婷","companyAbbr":"安国之旅深办","phone":13316984556,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:48:00 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:48:02 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:48:03 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:48:04 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:48:04 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 18 2017 15:53:46 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Aug 22 2017 09:43:25 GMT+0800 (CST)] write db error 20658:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a9","userName":"晓月","name":"晓月","phone":18664999001,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"sendSetTime":90,"status":true,"role":10}
+
+---------------------------------
+[Tue Aug 22 2017 09:43:25 GMT+0800 (CST)] write db error 20658:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a9","userName":"晓月","name":"晓月","phone":18664999001,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"sendSetTime":90,"status":true,"role":10}
+
+---------------------------------
+[Tue Sep 05 2017 15:09:32 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Sep 15 2017 09:20:46 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"59a8bb29df0460000f27117f","company":{"_id":"553a55db64d7dffc4b7dce87","feestemp":"锦都假期","city":"深圳","category":20},"userName":"ljx","name":"李嘉欣","companyAbbr":"雪之旅深办","phone":13686413261,"defaultFlag":"\"雪之旅\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Sep 25 2017 16:02:53 GMT+0800 (CST)] write db error 20604:
+{}
+obj:{"_id":"59c8af4dede4b7002303edde","userName":"hpglbjl","name":"小汤","phone":13232843049,"companyAbbr":"和平国旅北京路","company":{"_id":"59c8af4dede4b7002303eddd","city":"广州","feestemp":"默认","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Sep 27 2017 06:04:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Sep 30 2017 16:03:38 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Oct 10 2017 15:08:09 GMT+0800 (CST)] write db error 20628:
+{}
+obj:{"smdate":"2017-10-10"}
+
+---------------------------------
+[Wed Nov 01 2017 09:05:01 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Nov 05 2017 09:02:28 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Nov 07 2017 10:39:56 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0aa","userName":"小祯","name":"肖祯","phone":18576699322,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"defaultFlag":"无","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Nov 18 2017 09:57:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Nov 18 2017 09:57:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 29 2017 20:00:49 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Fri Dec 01 2017 15:47:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Sun Dec 10 2017 19:38:42 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Dec 12 2017 09:39:59 GMT+0800 (CST)] write db error 20698:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a8","userName":"流星","name":"流星","phone":18820759582,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"defaultFlag":"\"七彩云南\"红色导游旗","sendSetTime":90,"status":true,"role":10}
+
+---------------------------------
+[Tue Dec 12 2017 19:34:29 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"571f18a45b32481000d1a712","userName":"xuezhilv11","password":"123456","name":"陈秀香","companyAbbr":"雪之旅广办","phone":15918608379,"role":10}
+
+---------------------------------
+[Wed Dec 20 2017 03:32:35 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Dec 20 2017 09:43:23 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a8","userName":"流星","name":"流星","phone":18820759582,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"defaultFlag":"\"七彩云南\"红色导游旗","sendSetTime":90,"status":true,"role":10}
+
+---------------------------------
+[Wed Dec 20 2017 09:43:23 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a8","userName":"流星","name":"流星","phone":18820759582,"companyAbbr":"云游假期","company":{"_id":"553a55db64d7dffc4b7dce92","feestemp":"锦都假期","city":"深圳","category":20},"defaultFlag":"\"七彩云南\"红色导游旗","sendSetTime":90,"status":true,"role":10}
+
+---------------------------------
+[Wed Jan 03 2018 21:30:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Jan 03 2018 21:30:05 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Jan 03 2018 21:30:05 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Jan 03 2018 21:30:06 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20642:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jan 04 2018 00:24:23 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Jan 06 2018 20:49:44 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 08 2018 18:45:58 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Jan 16 2018 09:54:54 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jan 16 2018 16:35:56 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Jan 20 2018 23:55:17 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Jan 20 2018 23:55:26 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 22 2018 19:57:20 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 22 2018 20:27:11 GMT+0800 (CST)] write db error 20620:
+{}
+obj:{"cardtype":"1","livedate":"2017-12-16","server":"all","filter":"3","n":"1"}
+
+---------------------------------
+[Tue Jan 23 2018 04:43:01 GMT+0800 (CST)] write db error 20620:
+{}
+obj:{"cardtype":"1","livedate":"2018-01-22","server":"all","filter":"3","n":"1"}
+
+---------------------------------
+[Tue Jan 23 2018 21:02:39 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Jan 30 2018 11:03:18 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Jan 30 2018 19:49:20 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:28 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:31 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:32 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:33 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:33 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:33 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:33 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:34 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 05 2018 21:40:34 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Feb 12 2018 10:06:08 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Feb 14 2018 14:09:44 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Thu Feb 15 2018 21:56:48 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Feb 15 2018 21:57:13 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Feb 15 2018 22:00:42 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:02 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:03 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:03 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 22 2018 10:06:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Feb 23 2018 14:46:27 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce8e","userName":"bjbj08","password":"13790787705","name":"陈银瑞","companyAbbr":"悠游假期北京线","phone":13790787705,"role":10}
+
+---------------------------------
+[Fri Feb 23 2018 14:47:08 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce8e","userName":"bjbj08","password":"61625802","name":"陈银瑞","companyAbbr":"悠游假期北京线","phone":13790787705,"role":10}
+
+---------------------------------
+[Wed Feb 28 2018 10:56:43 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Feb 28 2018 10:56:43 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Feb 28 2018 10:56:43 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Feb 28 2018 10:56:43 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Feb 28 2018 10:57:59 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Mar 10 2018 19:18:20 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Mar 10 2018 20:27:13 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Mar 17 2018 20:26:57 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Mar 19 2018 10:42:12 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Mar 26 2018 15:57:23 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"5a977c80dc88f0022133b12f","userName":"lixue","password":"123456","name":"李雪","companyAbbr":"中意假期","phone":13302930263,"role":10}
+
+---------------------------------
+[Tue Apr 03 2018 11:53:44 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Tue Apr 03 2018 11:53:57 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Sat Apr 14 2018 09:26:53 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Apr 30 2018 19:29:23 GMT+0800 (CST)] write db error 20602:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Apr 30 2018 19:29:37 GMT+0800 (CST)] write db error 20602:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Apr 30 2018 19:29:55 GMT+0800 (CST)] write db error 20602:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Apr 30 2018 19:30:54 GMT+0800 (CST)] write db error 20602:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Apr 30 2018 19:32:03 GMT+0800 (CST)] write db error 20602:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Sat May 05 2018 16:28:23 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Sun May 20 2018 07:41:01 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun May 20 2018 07:41:01 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon May 21 2018 08:11:24 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed May 30 2018 16:50:35 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu May 31 2018 19:20:30 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu May 31 2018 19:20:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu May 31 2018 19:20:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu May 31 2018 19:20:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Jun 07 2018 11:29:00 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"57ba8d8e94224154004cf5f8","userName":"YNHX123","password":"111111","name":"陈小梁","companyAbbr":"ynhx","phone":18457103825,"role":10}
+
+---------------------------------
+[Thu Jun 07 2018 11:30:25 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"57ba8d8e94224154004cf5f8","userName":"YNHX123","password":"111111","name":"陈小梁","companyAbbr":"ynhx","phone":18457103825,"role":10}
+
+---------------------------------
+[Thu Jun 07 2018 11:30:45 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"57ba8d8e94224154004cf5f8","userName":"ynhx123","password":"111111","name":"陈小梁","companyAbbr":"ynhx","phone":18457103825,"role":10}
+
+---------------------------------
+[Sat Jun 30 2018 23:47:25 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1b7cd591e341007dd9d3c0","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"userName":"bjbj06","name":"郭金英","companyAbbr":"悠游北京","phone":18588439307,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:21 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:24 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:25 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:26 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:26 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:26 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:30 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:36 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:36 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:09:36 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jul 16 2018 20:16:22 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"57de377aa9d4a010003f6119","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"lm","name":"李敏","phone":15890213152,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Jul 26 2018 20:10:20 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"5a1b7cd591e341007dd9d3c0","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"userName":"bjbj06","name":"郭金英","companyAbbr":"悠游北京","phone":18588439307,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Jul 28 2018 20:39:58 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"556fb2598d2a5b56331b0347","company":{"_id":"556fb14c8d2a5b56331b0344","city":"深圳","feestemp":"安国之旅","category":20},"userName":"ff","name":"小锋","phone":13825231950,"companyAbbr":"发现西北","defaultFlag":"\"发现西北\"灰色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Aug 10 2018 11:35:53 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Aug 10 2018 11:35:53 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Aug 10 2018 11:35:53 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Aug 14 2018 15:17:25 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a2fbf5ef5dcbb0055b1a0a0","company":{"_id":"571f18a45b32481000d1a712","city":"广州","feestemp":"免送机费","category":20},"userName":"xuezhilv12","name":"符翠荣","companyAbbr":"雪之旅广办","phone":18718207335,"defaultFlag":"\"雪之旅\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Aug 16 2018 18:25:25 GMT+0800 (CST)] write db error 20658:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 16 2018 18:25:25 GMT+0800 (CST)] write db error 20658:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Aug 29 2018 16:23:17 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"5a977c80dc88f0022133b12f","userName":"wangzheng","password":"123456","name":"王政","companyAbbr":"中意假期","phone":13686877957,"role":10}
+
+---------------------------------
+[Sun Sep 23 2018 06:16:36 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Sep 23 2018 06:38:16 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Oct 08 2018 08:05:22 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Oct 09 2018 15:48:40 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Wed Oct 10 2018 23:40:12 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Oct 22 2018 17:48:12 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 07 2018 11:04:07 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 07 2018 11:04:19 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Nov 15 2018 10:17:35 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Nov 17 2018 08:41:22 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Nov 23 2018 22:37:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Dec 03 2018 19:33:47 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Dec 07 2018 12:22:16 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Dec 23 2018 11:06:23 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"56d3ab3defb284905de74a64","userName":"zhonghua","name":"张跃龙","phone":13723790075,"companyAbbr":"中华之旅","company":{"_id":"56d3ab3defb284905de74a63","city":"深圳","feestemp":"送机全免","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sun Dec 23 2018 11:06:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"56d3ab3defb284905de74a64","userName":"zhonghua","name":"张跃龙","phone":13723790075,"companyAbbr":"中华之旅","company":{"_id":"56d3ab3defb284905de74a63","city":"深圳","feestemp":"送机全免","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Jan 01 2019 12:35:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jan 01 2019 12:35:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jan 01 2019 12:35:21 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Jan 15 2019 09:38:32 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"5a1b7cd591e341007dd9d3c0","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"userName":"bjbj06","name":"郭金英","companyAbbr":"悠游北京","phone":18588439307,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Fri Jan 18 2019 15:22:54 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{}
+
+---------------------------------
+[Sat Jan 26 2019 21:08:10 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Jan 26 2019 21:08:11 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Feb 03 2019 05:19:12 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Feb 15 2019 10:36:45 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Feb 15 2019 10:36:49 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Feb 16 2019 13:27:47 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Feb 18 2019 14:46:21 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Feb 18 2019 14:46:23 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Feb 18 2019 15:16:18 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Feb 19 2019 09:31:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Feb 19 2019 09:31:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Feb 19 2019 09:31:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Feb 19 2019 09:31:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Feb 19 2019 09:31:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Feb 21 2019 11:23:58 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Mar 08 2019 14:22:35 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce52","userName":"anguo14","password":"jr7700","name":"何思雯","companyAbbr":"安国之旅","phone":13316982754,"role":10}
+
+---------------------------------
+[Wed Mar 13 2019 05:51:41 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Mar 17 2019 07:05:21 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Mar 23 2019 00:24:41 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Apr 06 2019 11:02:36 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Apr 06 2019 11:02:41 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Apr 06 2019 13:48:29 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:25:13 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:25:13 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:25:13 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:47:53 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:47:54 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:47:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 08:47:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Apr 09 2019 09:50:48 GMT+0800 (CST)] write db error 20691:
+{}
+obj:{"_id":"557172d98d2a5b56331b0c61","company":{"_id":"553a55db64d7dffc4b7dce6c","feestemp":"散客20包团30","city":"深圳","category":20},"userName":"jhd01","name":"薛凤波","phone":18926580649,"companyAbbr":"金华东","defaultFlag":"无","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Apr 13 2019 18:54:47 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Apr 14 2019 06:35:16 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Apr 20 2019 09:51:35 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Apr 20 2019 09:51:37 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Apr 24 2019 09:54:12 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat May 04 2019 13:44:42 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f098","userName":"bjbj01","name":"鲁莎","phone":13609629163,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat May 04 2019 15:30:05 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu May 09 2019 06:40:34 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon May 20 2019 12:34:09 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu May 23 2019 20:21:25 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon May 27 2019 11:56:13 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon May 27 2019 14:14:55 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Tue May 28 2019 10:14:48 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu May 30 2019 10:37:32 GMT+0800 (CST)] write db error 20634:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f084","userName":"首都之旅","name":"黄小雨","phone":13682378466,"companyAbbr":"首都之旅","company":{"_id":"553a55db64d7dffc4b7dce82","feestemp":"安国之旅","city":"深圳","category":20},"defaultFlag":"\"首都之旅\"白色导游旗","sendSetTime":150,"status":true,"role":30}
+
+---------------------------------
+[Thu May 30 2019 10:37:32 GMT+0800 (CST)] write db error 20658:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f084","userName":"首都之旅","name":"黄小雨","phone":13682378466,"companyAbbr":"首都之旅","company":{"_id":"553a55db64d7dffc4b7dce82","feestemp":"安国之旅","city":"深圳","category":20},"defaultFlag":"\"首都之旅\"白色导游旗","sendSetTime":150,"status":true,"role":30}
+
+---------------------------------
+[Mon Jun 03 2019 14:57:39 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Jun 03 2019 14:57:39 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Jun 05 2019 15:03:29 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"571f18a45b32481000d1a712","userName":"xuezhilv17","password":"123456","name":"章昕奕","companyAbbr":"雪之旅广办","phone":13647935464,"role":10}
+
+---------------------------------
+[Wed Jun 05 2019 17:31:56 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jun 06 2019 20:13:03 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Jun 07 2019 11:51:36 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Jun 14 2019 18:54:42 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Jun 15 2019 14:37:20 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Jun 15 2019 22:13:46 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Jun 15 2019 22:13:46 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Jun 15 2019 22:13:46 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Jun 16 2019 23:37:45 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Jun 22 2019 23:44:55 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Jun 26 2019 00:04:48 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Jun 27 2019 15:29:18 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Jul 15 2019 06:18:15 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Jul 15 2019 06:18:15 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Jul 15 2019 06:18:17 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Jul 19 2019 14:06:04 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Jul 19 2019 14:06:05 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Jul 19 2019 14:06:06 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Aug 01 2019 15:21:46 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"5ad44278f6dbf20249323284","company":{"_id":"5a977c80dc88f0022133b12f","city":"深圳","feestemp":"送机全免","category":20},"userName":"jianglifei","name":"蒋利飞","companyAbbr":"中意假期","phone":18565895664,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Aug 01 2019 15:21:47 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"5ad44278f6dbf20249323284","company":{"_id":"5a977c80dc88f0022133b12f","city":"深圳","feestemp":"送机全免","category":20},"userName":"jianglifei","name":"蒋利飞","companyAbbr":"中意假期","phone":18565895664,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Aug 01 2019 15:21:47 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"5ad44278f6dbf20249323284","company":{"_id":"5a977c80dc88f0022133b12f","city":"深圳","feestemp":"送机全免","category":20},"userName":"jianglifei","name":"蒋利飞","companyAbbr":"中意假期","phone":18565895664,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Aug 12 2019 18:53:54 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Aug 15 2019 07:16:36 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 15 2019 14:15:11 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 15 2019 14:15:11 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 15 2019 14:15:11 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 15 2019 19:42:27 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Aug 17 2019 09:23:29 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Aug 17 2019 09:23:30 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Aug 23 2019 17:29:58 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Fri Aug 23 2019 17:29:59 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Sep 12 2019 21:09:48 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:22 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:29 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:30 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:30 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:30 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:31 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sun Sep 15 2019 12:48:31 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Sep 25 2019 18:03:51 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Sep 30 2019 20:51:32 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 30 2019 20:51:32 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 30 2019 20:51:32 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 30 2019 20:51:32 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 30 2019 20:51:32 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Oct 01 2019 19:09:08 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Oct 02 2019 20:33:37 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5a1ea2afcb4c1d000f086760","company":{"_id":"5a1e8df4cb4c1d000f086719","city":"珠海","feestemp":"默认","category":30},"userName":"wangzh","name":"汪凌云","companyAbbr":"阳光服务","phone":13528706248,"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Oct 12 2019 14:29:35 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"576765dbbb8904180099689d","userName":"yunyuanjiari168","name":"李顺国","phone":13372526750,"companyAbbr":"云缘假日","company":{"_id":"576765dbbb8904180099689c","city":"杭州","feestemp":"送机团散全免","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Oct 16 2019 20:21:40 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Oct 16 2019 20:21:40 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Oct 16 2019 22:33:09 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Oct 16 2019 22:33:09 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Oct 16 2019 22:33:33 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Oct 19 2019 15:59:25 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Oct 24 2019 08:03:44 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Oct 29 2019 12:26:37 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"576765dbbb8904180099689d","userName":"yunyuanjiari168","name":"李顺国","phone":13372526750,"companyAbbr":"云缘假日","company":{"_id":"576765dbbb8904180099689c","city":"杭州","feestemp":"送机团散全免","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Tue Nov 05 2019 13:14:21 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5b7cd3c8af0eec01a9ae6b22","company":{"_id":"577b2c70794f6f7b0092f34e","city":"杭州","feestemp":"送机团散全免","category":20},"userName":"zhengmengxiu","name":"郑梦秀","companyAbbr":"桂林假期","phone":15258834373,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Nov 05 2019 13:14:21 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"5b7cd3c8af0eec01a9ae6b22","company":{"_id":"577b2c70794f6f7b0092f34e","city":"杭州","feestemp":"送机团散全免","category":20},"userName":"zhengmengxiu","name":"郑梦秀","companyAbbr":"桂林假期","phone":15258834373,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Nov 05 2019 13:14:40 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"5b7cd3c8af0eec01a9ae6b22","company":{"_id":"577b2c70794f6f7b0092f34e","city":"杭州","feestemp":"送机团散全免","category":20},"userName":"zhengmengxiu","name":"郑梦秀","companyAbbr":"桂林假期","phone":15258834373,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Nov 05 2019 13:14:40 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"5b7cd3c8af0eec01a9ae6b22","company":{"_id":"577b2c70794f6f7b0092f34e","city":"杭州","feestemp":"送机团散全免","category":20},"userName":"zhengmengxiu","name":"郑梦秀","companyAbbr":"桂林假期","phone":15258834373,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Nov 06 2019 16:17:05 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Nov 09 2019 11:25:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"59058e15eb14970e00771bfa","userName":"jiahua","name":"江宏","phone":13691887875,"companyAbbr":"海南专线","company":{"_id":"59058e15eb14970e00771bf9","city":"深圳","feestemp":"免送机费","category":20},"sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sun Nov 10 2019 07:38:21 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 13 2019 15:24:34 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Nov 15 2019 16:39:56 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Nov 19 2019 11:51:35 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 20 2019 08:37:04 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Fri Nov 22 2019 19:55:58 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Dec 18 2019 06:02:05 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Dec 23 2019 16:04:13 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5964c57f4c31110e00f341ab","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"wxy","name":"吴晓瑜","companyAbbr":"杭州阳光","phone":18258831247,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Dec 24 2019 17:00:39 GMT+0800 (CST)] write db error 20605:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Dec 24 2019 19:50:09 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sun Jan 05 2020 09:37:58 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5b32f944e3cad4000fb69730","company":{"_id":"571f18a45b32481000d1a712","city":"广州","feestemp":"免送机费","category":20},"userName":"xuezhilv15","name":"汤瑞珍","companyAbbr":"雪之旅广办","phone":13622298870,"defaultFlag":"\"雪之旅\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:36 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20687:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 06 2020 09:47:37 GMT+0800 (CST)] write db error 20690:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f0a4","userName":"lsl","name":"黎神龙","phone":15012665180,"companyAbbr":"欢怡假期","company":{"_id":"553a55db64d7dffc4b7dce69","feestemp":"新价格","city":"深圳","category":20},"defaultFlag":"\"黄山风韵\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Mon Jan 13 2020 19:54:16 GMT+0800 (CST)] write db error 20691:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Jul 23 2020 14:28:27 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"571f18a45b32481000d1a712","userName":"xuezhilv22","password":"123456","name":"李超红","companyAbbr":"雪之旅广办","phone":18825114696,"role":10}
+
+---------------------------------
+[Thu Jul 23 2020 20:18:17 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Jul 27 2020 17:53:48 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Jul 27 2020 17:53:48 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Aug 06 2020 21:12:47 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Aug 08 2020 15:38:03 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce52","userName":"anguo0001","password":"ljl2509","name":"邱建兵","companyAbbr":"安国之旅","phone":13823505322,"role":10}
+
+---------------------------------
+[Wed Aug 12 2020 13:56:09 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Aug 17 2020 17:01:55 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Aug 23 2020 12:00:10 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sun Aug 23 2020 12:00:10 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sun Aug 23 2020 17:17:34 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Thu Sep 03 2020 13:32:03 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Sat Sep 05 2020 13:16:05 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Sep 06 2020 18:18:48 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Sat Sep 12 2020 22:47:06 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Sep 12 2020 22:47:21 GMT+0800 (CST)] write db error 20675:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Sep 12 2020 22:52:14 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sun Sep 13 2020 09:54:57 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"57fdab654e0bf09500698b1b","userName":"yljq","name":"羊鸣","phone":13798188897,"companyAbbr":"椰林假期","company":{"_id":"57fdab654e0bf09500698b1a","city":"广州","feestemp":"免送机费","category":20},"defaultFlag":"\"阳光服务\"蓝色导游旗","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Sep 16 2020 10:13:27 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"554842f5fffc6ba533e32cf8","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"shenbin","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Sat Sep 19 2020 20:41:34 GMT+0800 (CST)] write db error 20692:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 21 2020 04:52:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Mon Sep 21 2020 04:52:32 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5e1d83eab4b46e0023e9e6e6","company":{"_id":"56e115ea1574bea511889e88","city":"杭州","feestemp":"卓越价","category":30},"userName":"yrr","name":"尹锐锐","companyAbbr":"杭州2020","phone":15857122526,"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Tue Sep 22 2020 22:53:35 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Sep 22 2020 22:53:36 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Sep 22 2020 22:53:37 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Sep 22 2020 22:53:37 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Tue Sep 29 2020 11:16:10 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce8e","userName":"suguiyang","password":"123456","name":"苏贵阳","companyAbbr":"悠游假期西北线","phone":18923795852,"role":10}
+
+---------------------------------
+[Tue Sep 29 2020 11:23:21 GMT+0800 (CST)] write db error 20610:
+{}
+obj:{"company":"553a55db64d7dffc4b7dce8e","userName":"bjbj10","password":"123456","name":"苏贵阳","companyAbbr":"悠游西北","phone":18923795852,"role":10}
+
+---------------------------------
+[Tue Oct 13 2020 13:21:26 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"553a7e3550a9a8be26e8f052","userName":"super","name":"老汪","phone":13528706248,"companyAbbr":"智享","company":{"_id":"553a4decf2fd60fc0b8d60f8","feestemp":"默认","city":"深圳","category":30},"sendSetTime":120,"status":true,"role":99}
+
+---------------------------------
+[Mon Oct 26 2020 10:55:19 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Oct 26 2020 10:55:51 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Oct 26 2020 10:55:51 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Oct 26 2020 10:55:51 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Mon Oct 26 2020 10:55:51 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"57427df501e6cb18008b6633","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"ygfwsz","name":"沈斌","phone":15814750610,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Thu Nov 05 2020 14:28:14 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"553a7e6850a9a8be26e8f099","userName":"bjbj02","name":"孙江","phone":15013464574,"companyAbbr":"悠游假期北京线","company":{"_id":"553a55db64d7dffc4b7dce8e","feestemp":"新价格","city":"深圳","category":20},"sendSetTime":120,"status":true,"role":20}
+
+---------------------------------
+[Wed Nov 25 2020 11:49:03 GMT+0800 (CST)] write db error 20670:
+{}
+obj:{"_id":"55793e8eb3dec1fe611cf409","company":{"_id":"553a55db64d7dffc4b7dce52","feestemp":"安国之旅","city":"深圳","category":20},"userName":"anguo01","name":"杨婷","phone":13316573161,"companyAbbr":"安国之旅深办","defaultFlag":"\"安国之旅\"黄色导游旗","sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Thu Nov 26 2020 20:41:43 GMT+0800 (CST)] write db error 20800:
+{}
+obj:{"_id":"5b38e298e3cad4000fb6baaa","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"rlq","name":"饶丽琴","companyAbbr":"阳光服务","phone":18397857538,"sendSetTime":120,"status":true,"role":10}
+
+---------------------------------
+[Wed Mar 24 2021 13:15:01 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5573f0c199e103f642b47c10","company":{"_id":"553a4e47f2fd60fc0b8d60fb","feestemp":"默认","city":"深圳","category":30},"userName":"wujidong","name":"东东","phone":13760458303,"companyAbbr":"阳光服务","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Apr 21 2021 19:13:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+
+---------------------------------
+[Wed Apr 21 2021 19:13:31 GMT+0800 (CST)] write db error 20674:
+{}
+obj:{"_id":"5708977d11e54a10000634f5","company":{"_id":"57054d6eee7ecd1000e29744","city":"广州","feestemp":"默认","category":30},"userName":"wanggz","name":"汪凌云","phone":13528706248,"companyAbbr":"广州阳光","sendSetTime":120,"status":true,"role":30}
+

@@ -1,0 +1,175 @@
+---------------------------------
+[Fri Dec 08 2017 08:14:00 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000053994\" }","op":{"pinganCardNum":"0114238000053994","password":"958912","serverMan":"汪凌云","_id":"5a29d948f5dcbb0055b1825f","meta":{"updateAt":"2017-12-08T00:14:00.958Z","createAt":"2017-12-08T00:14:00.958Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Fri Dec 08 2017 08:14:58 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000053994\" }","op":{"pinganCardNum":"0114238000053994","password":"958912","serverMan":"汪凌云","_id":"5a29d982f5dcbb0055b18260","meta":{"updateAt":"2017-12-08T00:14:58.718Z","createAt":"2017-12-08T00:14:58.718Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Fri Dec 08 2017 08:43:58 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000054003\" }","op":{"pinganCardNum":"0114238000054003","password":"617983","serverMan":"汪凌云","_id":"5a29e04ef5dcbb0055b18263","meta":{"updateAt":"2017-12-08T00:43:58.638Z","createAt":"2017-12-08T00:43:58.638Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Mon Dec 25 2017 01:32:51 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000054003\" }","op":{"pinganCardNum":"0114238000054003","password":"617983","serverMan":"汪凌云","_id":"5a3fe4c3df465700693ad4c7","meta":{"updateAt":"2017-12-24T17:32:51.561Z","createAt":"2017-12-24T17:32:51.561Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Tue Jan 02 2018 05:55:09 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000054000\" }","op":{"pinganCardNum":"0114238000054000","password":"446705","serverMan":"汪凌云","_id":"5a4aae3d3b178000eba39747","meta":{"updateAt":"2018-01-01T21:55:09.499Z","createAt":"2018-01-01T21:55:09.499Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Thu Apr 19 2018 09:58:34 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"0114238000056805\" }","op":{"pinganCardNum":"0114238000056805","password":"569134","serverMan":"汪凌云","_id":"5ad7f7caf6dbf2024932531f","meta":{"updateAt":"2018-04-19T01:58:34.937Z","createAt":"2018-04-19T01:58:34.937Z"},"cardType":1,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Tue Oct 02 2018 08:16:08 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ba5c0e59ae1df01f99e0c94","set":{"isInsurance":1,"notes":"转珠海"}}
+
+---------------------------------
+[Tue Oct 02 2018 08:21:00 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ba5c0e59ae1df01f99e0bba","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Thu Oct 11 2018 04:43:43 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5bb333a0c16470000f85379e","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Thu Oct 11 2018 04:43:45 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5bb333a0c16470000f85379e","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Sun Mar 10 2019 15:07:54 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"9551116000354442\" }","op":{"pinganCardNum":"9551116000354442","password":"067096","serverMan":"项致远","_id":"5c84b7ca0bbfdc000faf3c2e","meta":{"updateAt":"2019-03-10T07:07:54.382Z","createAt":"2019-03-10T07:07:54.382Z"},"cardType":3,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Sun Mar 10 2019 15:08:23 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"9551116000354445\" }","op":{"pinganCardNum":"9551116000354445","password":"072300","serverMan":"项致远","_id":"5c84b7e70bbfdc000faf3c30","meta":{"updateAt":"2019-03-10T07:08:23.345Z","createAt":"2019-03-10T07:08:23.345Z"},"cardType":3,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Sun Mar 10 2019 15:09:14 GMT+0800 (CST)] write db error 22910:
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: zh.pingans index: pinganCardNum_1 dup key: { : \"9551116000354445\" }","op":{"pinganCardNum":"9551116000354445","password":"072300","serverMan":"项致远","_id":"5c84b81a0bbfdc000faf3c35","meta":{"updateAt":"2019-03-10T07:09:14.451Z","createAt":"2019-03-10T07:09:14.451Z"},"cardType":3,"isInsurance":2,"__v":0}}
+obj:{}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:20 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c9","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:25 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:26 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:27 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:27 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:27 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:34 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:34 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:35 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:35 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:35 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:35 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:35 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:36 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:36 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:37 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:37 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:37 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c8","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:42 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c7","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue Apr 16 2019 06:01:42 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5ca530240bbfdc000fafe7c7","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Tue May 14 2019 18:31:57 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5cc977c7f6e984005565241f","set":{"isInsurance":1,"notes":"转广州"}}
+
+---------------------------------
+[Wed Nov 20 2019 18:17:49 GMT+0800 (CST)] write db error 22602:
+{}
+obj:{"id":"5dc82e8b8ecdc100199cb8db","set":{"isInsurance":3}}
+

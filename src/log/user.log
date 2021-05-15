@@ -1,0 +1,530 @@
+---------------------------------
+[Sun Jul 16 2017 22:05:40 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"threeants33","password":"threeants33"}
+
+---------------------------------
+[Sun Jul 16 2017 22:05:43 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"threeants33","password":"threeants33"}
+
+---------------------------------
+[Wed Jul 26 2017 23:30:03 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Aug 06 2017 16:03:34 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"lm666888","password":"lm666888"}
+
+---------------------------------
+[Tue Aug 29 2017 20:07:36 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Tue Sep 12 2017 00:16:37 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"hhjq01","password":"hhjq01"}
+
+---------------------------------
+[Tue Sep 12 2017 00:43:21 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"hhjzl01","password":"hhjzl01"}
+
+---------------------------------
+[Tue Sep 26 2017 11:42:09 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Nov 16 2017 06:42:09 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Nov 17 2017 05:00:45 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Nov 26 2017 18:00:48 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Wed Nov 29 2017 21:01:53 GMT+0800 (CST)] write db error 10614:
+{}
+obj:{"search":{"_id":"5708977d11e54a10000634f5"},"filter":{"company":1,"role":1,"status":1,"phone":1,"userName":1,"name":1,"companyAbbr":1,"defaultFlag":1,"sendSetTime":1},"dbName":"zh"}
+
+---------------------------------
+[Thu Nov 30 2017 18:49:18 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Tue Dec 05 2017 05:54:51 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sat Dec 16 2017 13:27:15 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sat Dec 16 2017 13:27:30 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sat Dec 23 2017 11:04:34 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sat Dec 23 2017 12:05:10 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Dec 24 2017 18:08:38 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Tue Dec 26 2017 20:26:24 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Mon Jan 22 2018 08:33:40 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Jan 25 2018 07:18:18 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Feb 01 2018 11:22:35 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"meiling","password":"meiling"}
+
+---------------------------------
+[Fri Feb 09 2018 09:02:05 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Feb 09 2018 09:02:13 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Feb 11 2018 15:41:18 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Feb 11 2018 15:41:24 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Feb 11 2018 15:41:27 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Feb 11 2018 19:53:34 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xiangyunjiaqi","password":"xiangyunjiaqi"}
+
+---------------------------------
+[Sat Feb 17 2018 10:20:53 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sat Feb 17 2018 10:21:01 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Mar 04 2018 09:28:47 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xiajie","password":"xiajie"}
+
+---------------------------------
+[Wed Mar 07 2018 13:15:31 GMT+0800 (CST)] write db error 10682:
+{}
+obj:{"_id":"5a9e3533dc88f0022133c99e","status":true}
+
+---------------------------------
+[Wed Mar 07 2018 13:15:33 GMT+0800 (CST)] write db error 10682:
+{}
+obj:{"_id":"5a9e3533dc88f0022133c99e","status":true}
+
+---------------------------------
+[Wed Mar 07 2018 13:15:34 GMT+0800 (CST)] write db error 10682:
+{}
+obj:{"_id":"5a9e3533dc88f0022133c99e","status":true}
+
+---------------------------------
+[Wed Mar 07 2018 13:15:34 GMT+0800 (CST)] write db error 10682:
+{}
+obj:{"_id":"5a9e3533dc88f0022133c99e","status":true}
+
+---------------------------------
+[Wed Mar 07 2018 13:15:35 GMT+0800 (CST)] write db error 10682:
+{}
+obj:{"_id":"5a9e3533dc88f0022133c99e","status":true}
+
+---------------------------------
+[Fri Mar 09 2018 08:41:37 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Mar 09 2018 08:41:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Mon Apr 09 2018 04:20:10 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Wed Apr 11 2018 17:12:10 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Apr 12 2018 22:52:17 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xyjq19920723","password":"xyjq19920723"}
+
+---------------------------------
+[Thu Apr 12 2018 22:52:27 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xyjq19920723","password":"xyjq19920723"}
+
+---------------------------------
+[Fri Apr 27 2018 05:42:06 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Tue May 22 2018 11:23:48 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Mon Jun 11 2018 16:05:12 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5a2fbf1ef5dcbb0055b1a09f","sendSetTime":120}
+
+---------------------------------
+[Mon Jun 11 2018 16:05:15 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5a2fbf1ef5dcbb0055b1a09f","sendSetTime":120}
+
+---------------------------------
+[Mon Jun 11 2018 16:05:20 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5a2fbf1ef5dcbb0055b1a09f","sendSetTime":120}
+
+---------------------------------
+[Wed Jun 20 2018 18:07:23 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"huchunlan","password":"huchunlan"}
+
+---------------------------------
+[Thu Jul 05 2018 14:30:27 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"bjbj08","password":"bjbj08"}
+
+---------------------------------
+[Thu Jul 05 2018 14:31:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"bjbj08","password":"bjbj08"}
+
+---------------------------------
+[Wed Jul 11 2018 16:14:00 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5ad74f77f6dbf20249325207","sendSetTime":180}
+
+---------------------------------
+[Thu Aug 16 2018 18:00:14 GMT+0800 (CST)] write db error 10066:
+{}
+obj:{"_id":"571f9d1e5b32481000d1a738","defaultFlag":"\"阳光服务\"蓝色导游旗"}
+
+---------------------------------
+[Thu Aug 16 2018 18:14:18 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Mon Oct 08 2018 14:40:33 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"13686877957","password":"13686877957"}
+
+---------------------------------
+[Tue Dec 11 2018 10:41:47 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"yh0710","password":"yh0710"}
+
+---------------------------------
+[Tue Jan 08 2019 14:43:34 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"ynhx0123","password":"ynhx0123"}
+
+---------------------------------
+[Wed Jan 30 2019 10:12:52 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Feb 07 2019 18:47:26 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Mar 07 2019 14:13:20 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"chenmei","password":"chenmei"}
+
+---------------------------------
+[Mon Mar 11 2019 21:09:18 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"jiangyan888","password":"jiangyan888"}
+
+---------------------------------
+[Mon Mar 11 2019 21:09:37 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"jiangyan888","password":"jiangyan888"}
+
+---------------------------------
+[Fri Apr 05 2019 15:40:09 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Wed May 15 2019 18:22:45 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5cdbe47b64bed5009b843a35","sendSetTime":180}
+
+---------------------------------
+[Thu May 30 2019 08:43:57 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Jun 06 2019 17:17:44 GMT+0800 (CST)] write db error 10064:
+{}
+obj:{"_id":"5cf8d6f8696b7600af4630c0","sendSetTime":180}
+
+---------------------------------
+[Sat Jul 06 2019 18:40:15 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"18967302807","password":"18967302807"}
+
+---------------------------------
+[Mon Jul 08 2019 12:13:35 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Jul 12 2019 15:50:23 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"rlq","password":""}
+
+---------------------------------
+[Fri Jul 12 2019 15:50:28 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":""}
+
+---------------------------------
+[Sun Jul 14 2019 10:00:57 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"rlq","password":"12345"}
+
+---------------------------------
+[Sun Jul 14 2019 10:00:57 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"rlq","password":"12345"}
+
+---------------------------------
+[Sun Jul 14 2019 10:01:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"rlq","password":"12345"}
+
+---------------------------------
+[Sun Jul 14 2019 10:01:53 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Wed Aug 21 2019 17:29:26 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Aug 22 2019 08:12:13 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Thu Aug 22 2019 08:12:13 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Thu Aug 22 2019 08:12:14 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Thu Aug 22 2019 08:12:15 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Wed Aug 28 2019 22:36:48 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Sep 12 2019 16:29:23 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Sep 13 2019 20:33:29 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Fri Sep 20 2019 14:49:11 GMT+0800 (CST)] write db error 10684:
+{}
+obj:{"_id":"557febb1322a479672d2a4b8","set":{"phone":13632920320}}
+
+---------------------------------
+[Fri Sep 20 2019 14:51:51 GMT+0800 (CST)] write db error 10684:
+{}
+obj:{"_id":"557febb1322a479672d2a4b8","set":{"phone":13632920320}}
+
+---------------------------------
+[Sun Dec 08 2019 16:31:23 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xuezhilv08","password":"xuezhilv08"}
+
+---------------------------------
+[Sun Dec 08 2019 16:31:31 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xuezhilv08","password":"xuezhilv08"}
+
+---------------------------------
+[Tue Dec 31 2019 17:31:06 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"sdzl03","password":"sdzl03"}
+
+---------------------------------
+[Mon Mar 09 2020 00:15:07 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"hemiao","password":"hemiao"}
+
+---------------------------------
+[Mon Mar 09 2020 00:15:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"hemiao","password":"hemiao"}
+
+---------------------------------
+[Sat May 09 2020 11:52:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"15857122526","password":"15857122526"}
+
+---------------------------------
+[Wed May 20 2020 17:03:23 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"hemiao","password":"hemiao"}
+
+---------------------------------
+[Wed Jul 15 2020 19:49:26 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"ctjq123456","password":"ctjq123456"}
+
+---------------------------------
+[Mon Jul 20 2020 11:39:13 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"liaoqi","password":"liaoqi"}
+
+---------------------------------
+[Mon Jul 20 2020 11:39:34 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"15158194110","password":"15158194110"}
+
+---------------------------------
+[Sun Aug 09 2020 18:05:03 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"13732294934","password":"13732294934"}
+
+---------------------------------
+[Thu Aug 20 2020 04:55:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Thu Sep 17 2020 16:04:21 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Mon Nov 02 2020 12:07:28 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Wed Nov 11 2020 05:26:44 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
+---------------------------------
+[Sun Nov 29 2020 15:49:07 GMT+0800 (CST)] write db error 10999:
+{"name":"MongoError","message":"read ECONNRESET"}
+obj:"5c106edd37d33d001985c595"
+
+---------------------------------
+[Sun Nov 29 2020 15:49:07 GMT+0800 (CST)] write db error 10999:
+{"name":"MongoError","message":"read ECONNRESET"}
+obj:"5968acf778b8850e00de7638"
+
+---------------------------------
+[Sun Nov 29 2020 15:49:07 GMT+0800 (CST)] write db error 10999:
+{"name":"MongoError","message":"read ECONNRESET"}
+obj:"5550df67979d1239595c8d5b"
+
+---------------------------------
+[Mon Mar 01 2021 11:26:02 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"bjbj06","password":"bjbj06"}
+
+---------------------------------
+[Fri Mar 12 2021 15:28:52 GMT+0800 (CST)] write db error 10602:
+{}
+obj:{"userName":"","password":"123456"}
+
+---------------------------------
+[Tue Apr 06 2021 14:46:49 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"xiajiegz","password":"xiajiegz"}
+
+---------------------------------
+[Tue Apr 06 2021 15:05:35 GMT+0800 (CST)] write db error 10604:
+{}
+obj:{"userName":"shenbin","password":"shenbin"}
+
